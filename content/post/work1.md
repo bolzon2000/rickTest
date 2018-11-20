@@ -9,6 +9,7 @@ categories = [ "design"]
 weight = 1
 +++
 
-Some super interesting details about Rick the lizard here!
-And even more detils!!!!
+Rick is NOT a plain old generic lizard ... he is a spotted gecko!
+
 <!--more-->
+And even more detils!!!!
