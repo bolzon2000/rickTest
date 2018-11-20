@@ -12,4 +12,4 @@ weight = 1
 Rick is NOT a plain old generic lizard ... he is a spotted gecko!
 
 <!--more-->
-And even more detils!!!!
+And even more detils!!!!!!!!!!!!
